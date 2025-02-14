@@ -1,0 +1,2 @@
+# predictive-modeling-and-price-forecasting-of-Wheat-Croporecasting
+This repository presents a machine learning-based approach to forecasting wheat prices and predicting market trends using key agricultural and economic indicators. By analyzing factors such as domestic consumption, yield, growth rate, price, and weather conditions, this model provides valuable insights for farmers, traders, and policymakers.
